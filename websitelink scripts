@@ -1,0 +1,4 @@
+--- stfo script
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/xkicxz/kicksstforeach/main/OldScriptSource'),true))()
+
+---- More coming soon !
