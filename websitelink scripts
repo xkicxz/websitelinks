@@ -1,4 +1,11 @@
 --- stfo script
+
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/xkicxz/kicksstforeach/main/OldScriptSource'),true))()
 
----- More coming soon !
+
+-BladeBall Script
+
+----press x to turn on auto clicker
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/xkicxz/bladeballl/main/BestAutoParry'),true))()
+
+-More Coming Soon!
